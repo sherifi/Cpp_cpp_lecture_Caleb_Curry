@@ -1,0 +1,569 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"conv_nr〔variable〕"
+			],
+			[
+				"json",
+				"json_path"
+			],
+			[
+				"data",
+				"data_out〔variable〕"
+			],
+			[
+				"op",
+				"option\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "02_Installing.cpp",
+			"settings":
+			{
+				"buffer_size": 74,
+				"encoding": "UTF-16 LE with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python27.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python36.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python37.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Python36.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"c",
+				"Set Syntax: C++"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"reana",
+				"Emmet: Rename Tag"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"c+",
+				"Set Syntax: C++"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"colso",
+				"UI: Select Color Scheme"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"co",
+				"UI: Select Color Scheme"
+			],
+			[
+				"tehme",
+				"UI: Select Theme"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"colore",
+				"UI: Select Color Scheme"
+			],
+			[
+				"teh",
+				"UI: Select Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/cpp_lecture_Caleb_Curry"
+	],
+	"file_history":
+	[
+		"/D/cpp_lecture_Caleb_Curry/.gitignore",
+		"/D/cpp_lecture_Caleb_Curry/01_intro.cpp",
+		"/D/Letter writing.txt",
+		"/D/Downloads/usingJson.py",
+		"/D/Insta_repository/.git/packed-refs",
+		"/D/Insta_repository/.git/config",
+		"/D/Insta_repository/.git/description",
+		"/D/Insta_repository/.git/HEAD",
+		"/D/Insta_repository/.git/objects/f2/88702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+		"/D/Insta_repository/.git/info/exclude",
+		"/D/Insta_repository/.git/hooks/pre-commit.sample",
+		"/D/Insta_repository/.git/hooks/pre-applypatch.sample",
+		"/D/Insta_repository/.git/hooks/post-update.sample",
+		"/D/Insta_repository/.git/hooks/fsmonitor-watchman.sample",
+		"/D/Insta_repository/.git/hooks/commit-msg.sample",
+		"/D/Insta_repository/.git/hooks/applypatch-msg.sample",
+		"/D/Insta_repository/.git/hooks/update.sample",
+		"/D/Downloads/messages.json",
+		"/D/Downloads/messages.py",
+		"/C/Users/shkel/AppData/Local/Temp/Temp1_sherifi_c0_20190316.zip/messages.json",
+		"/C/Users/shkel/AppData/Local/Temp/Temp1_sherifi_c0_20190316.zip/media.json",
+		"/D/Insta_repository/insta_bot2/.gitignore",
+		"/D/Insta_repository/insta_bot/.gitignore",
+		"/D/Insta_repository/.git/COMMIT_EDITMSG",
+		"/C/Users/shkel/OneDrive/Desktop/Insta_repository/insta_bot/gitignore.txt",
+		"/C/Users/shkel/OneDrive/Desktop/Insta/insta_bot/gitignore.txt",
+		"/C/Users/shkel/OneDrive/Desktop/Insta/insta_bot/version.txt",
+		"/C/Users/shkel/OneDrive/Desktop/Insta/insta_bot/username.db",
+		"/C/Users/shkel/OneDrive/Desktop/Insta/insta_bot/i.exclude",
+		"/D/Downloads/dop.tmTheme",
+		"/C/Users/shkel/OneDrive/Desktop/Password for Archive - windows.txt",
+		"/C/Users/shkel/AppData/Local/Temp/Temp2_KMSAuto-Net.zip/Password for Archive - windows.txt",
+		"/C/Users/shkel/AppData/Local/Temp/Temp1_KMSAuto-Net.zip/Password for Archive - windows.txt",
+		"/D/Downloads/windows10.txt",
+		"/C/Users/shkel/AppData/Roaming/Sublime Text 3/Installed Packages/Sublime text color scheme/dop.tmTheme",
+		"/D/MEGA/WEB/python/social_network/instagramBOT/insta_bot2/dood.py",
+		"/D/MEGA/WEB/python/social_network/instagramBOT/insta_bot/dood.py",
+		"/D/MEGA/WEB/python/social_network/instagramBOT/insta_bot/version.txt",
+		"/D/MEGA/WEB/python/social_network/instagramBOT/insta_bot/data.json",
+		"/D/MEGA/WEB/python/social_network/instagramBOT/insta_bot/follows_db.db",
+		"/D/MEGA/WEB/python/social_network/instagramBOT/insta_bot/errors.log",
+		"/C/Apache24/htdocs/javascript_test.php",
+		"/C/Apache24/htdocs/i.php",
+		"/C/Users/shkel/OneDrive/Desktop/test.cpp",
+		"/C/Users/shkel/OneDrive/Desktop/fdaf.py",
+		"/C/Users/shkel/OneDrive/Desktop/utility.py",
+		"/D/MEGA/WEB/python/dataBase/dataBaseType/dataBaseStatements.py",
+		"/D/MEGA/nuclear",
+		"/D/MEGA/WEB/AIN-ArtificialIntelligenceNews/AIN.py",
+		"/D/MEGA/WEB_sample_test/python/MyPrograms/connectionSQLiteDataBase.py",
+		"/C/Users/shkel/OneDrive/Desktop/forRoof.py"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "02_Installing.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 74,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"SL.33.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 139.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cpp_lecture_Caleb_Curry.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
