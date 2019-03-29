@@ -1,0 +1,15 @@
+﻿  0024_string_class_c_string.cpp
+  0025_getline_for_string.cpp
+D:\GIT\cpp_lecture_Caleb_Curry\cpp_lecture_Caleb_Curry\0025_getline_for_string.cpp(27): warning C4101: 'year': unreferenced local variable
+  0053_refactor_guessing_game_using_vectors.cpp
+D:\GIT\cpp_lecture_Caleb_Curry\cpp_lecture_Caleb_Curry\0053_refactor_guessing_game_using_vectors.cpp(10): warning C4018: '<': signed/unsigned mismatch
+D:\GIT\cpp_lecture_Caleb_Curry\cpp_lecture_Caleb_Curry\0053_refactor_guessing_game_using_vectors.cpp(47): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+0014_creating_void_function.obj : error LNK2005: "double __cdecl power(double,int)" (?power@@YANNH@Z) already defined in 0013_creating_custome_function.obj
+0005_Using_directive_declaration.obj : error LNK2005: "int __cdecl func_4(void)" (?func_4@@YAHXZ) already defined in 0004_Concept_more.obj
+0048_fill_array_from_input.obj : error LNK2005: "void __cdecl print_array(int * const,int)" (?print_array@@YAXQAHH@Z) already defined in 0047_passing_arrays_to_functions.obj
+0049_using_array_to_track_guesses.obj : error LNK2005: "void __cdecl play_game(void)" (?play_game@@YAXXZ) already defined in 0044_creating_guessing_game.obj
+0049_using_array_to_track_guesses.obj : error LNK2005: "void __cdecl print_array(int * const,int)" (?print_array@@YAXQAHH@Z) already defined in 0047_passing_arrays_to_functions.obj
+0053_refactor_guessing_game_using_vectors.obj : error LNK2005: "void __cdecl play_game(void)" (?play_game@@YAXXZ) already defined in 0044_creating_guessing_game.obj
+0053_refactor_guessing_game_using_vectors.obj : error LNK2005: "void __cdecl print_vector(class std::vector<int,class std::allocator<int> >)" (?print_vector@@YAXV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in 0052_passing_vectors_to_function.obj
+D:\GIT\cpp_lecture_Caleb_Curry\cpp_lecture_Caleb_Curry\Debug\cpp_lecture_Caleb_Curry.exe : fatal error LNK1169: one or more multiply defined symbols found
