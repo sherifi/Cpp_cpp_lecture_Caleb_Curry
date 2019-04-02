@@ -1,4 +1,12 @@
 #include <iostream>
+#include <string>
+#include <vector>
+#include <array>
+#include <fstream>
+#include <ctime>
+#include <climits>
+#include <cstdlib>
+
 
 int main()
 {
